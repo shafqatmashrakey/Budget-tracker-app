@@ -21,7 +21,7 @@ Follow these steps to get your development environment set up:
 
 1. **Clone the repository**
     ```
-    git clone https://github.com/munizp1/budget-tracker-app.git
+    git clone https://github.com/shafqatmashrakey/Budget-tracker-app.git
     cd budget-tracker-app
     ```
 
