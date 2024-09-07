@@ -1,0 +1,39 @@
+.tw-header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+  width: 100%; 
+}
+.tw-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px; 
+  box-sizing: border-box; 
+}
+
+.tw-brand h1 {
+  margin: 0;
+}
+
+.tw-nav-links {
+  display: flex;
+  gap: 20px; /* Adjust this value as needed */
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+}
+
+.tw-nav-links li {
+  margin-left: 20px; /* Add space between items */
+}
+
+.tw-nav-links li:first-child {
+  margin-left: 0; /* No margin for the first item */
+}
+
+.tw-nav-links li a {
+  color: #fff;
+  text-decoration: none;
+}
